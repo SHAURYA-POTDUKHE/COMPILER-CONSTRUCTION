@@ -1,5 +1,3 @@
-gedit filename.l
-
 %{
 	#include<stdio.h>
 %}
