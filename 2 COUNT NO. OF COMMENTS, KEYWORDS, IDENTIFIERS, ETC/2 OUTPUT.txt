@@ -1,0 +1,5 @@
+gedit prac2.l
+flex prac2.l
+cc lex.yy.c -ll
+./a.out
+THIS IS AN INPUT LINE

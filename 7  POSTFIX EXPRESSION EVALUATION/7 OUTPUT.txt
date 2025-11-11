@@ -1,0 +1,8 @@
+gedit prac7.l
+gedit prac7.y
+yacc -d prac7.y
+flex prac7.l
+cc lex.yy.c y.tab.c -lfl
+./a.out
+60 40 +
+60 40 *

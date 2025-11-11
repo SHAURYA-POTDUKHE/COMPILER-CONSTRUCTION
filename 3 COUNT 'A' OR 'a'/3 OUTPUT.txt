@@ -1,0 +1,5 @@
+gedit prac3.l
+flex prac3.l
+cc lex.yy.c -ll
+./a.out
+Shaurya eats an Apple a day

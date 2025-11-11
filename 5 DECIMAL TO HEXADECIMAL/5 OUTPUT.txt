@@ -1,0 +1,6 @@
+gedit prac5.l
+flex prac5.l
+cc lex.yy.c -ll
+./a.out
+495
+500

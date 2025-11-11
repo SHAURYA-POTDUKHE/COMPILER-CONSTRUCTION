@@ -1,0 +1,6 @@
+gedit prac6.l
+flex prac6.l
+cc lex.yy.c -ll
+./a.out
+hello world
+my email is test@example.com

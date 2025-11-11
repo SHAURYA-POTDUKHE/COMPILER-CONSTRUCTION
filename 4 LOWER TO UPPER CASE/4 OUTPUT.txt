@@ -1,0 +1,5 @@
+gedit prac4.l
+flex prac4.l
+gcc lex.yy.c -ll
+./a.out
+I am Shaurya Potdukhe

@@ -1,0 +1,6 @@
+gedit prac9.l
+gedit prac9.y
+bison -d prac9.y
+flex prac9.l
+gcc lex.yy.c prac9.tab.c -lfl
+./a.out

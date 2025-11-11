@@ -1,0 +1,4 @@
+gedit prac1.l
+flex prac1.l
+cc lex.yy.c -ll
+./a.out

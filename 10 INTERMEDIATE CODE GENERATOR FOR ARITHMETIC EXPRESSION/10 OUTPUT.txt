@@ -1,0 +1,8 @@
+gedit prac10.l
+gedit prac10.y
+yacc prac10.y
+flex prac10.l
+gcc y.tab.c lex.yy.c -o calc -lfl
+./calc
+
+a+b*c
